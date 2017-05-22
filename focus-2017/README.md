@@ -1,9 +1,16 @@
 ## Things to know with React
 
 
-### Package Management
+### Setting up
+
+#### Package Management
 * A beginner's guide to NPM
 * Yarn vs NPM
+
+#### Webpack 2
+* Configuration
+* HTMLWebpackPluginConfig
+* Loaders
 
 ### JavaScript
 * Array.map
@@ -39,12 +46,14 @@
 * Route Matching
 * Query Params
 
-### Webpack 2
-* Configuration
-* HTMLWebpackPluginConfig
-* Loaders
+
 
 ### Hosting
 * Building for Production
 * Deployment
 
+
+
+#### References
+https://reacttraining.com/online/react-fundamentals
+https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/
