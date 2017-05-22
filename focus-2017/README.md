@@ -52,3 +52,8 @@
 * Building for Production
 * Deployment
 
+
+
+#### References
+https://reacttraining.com/online/react-fundamentals
+https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/
